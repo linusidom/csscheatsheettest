@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/csscheatsheettest/static/css/main.679c6397.css",
+    "main.js": "/csscheatsheettest/static/js/main.c0b8dc0a.js",
+    "static/js/206.7cb5e98d.chunk.js": "/csscheatsheettest/static/js/206.7cb5e98d.chunk.js",
+    "index.html": "/csscheatsheettest/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.679c6397.css",
+    "static/js/main.c0b8dc0a.js"
+  ]
+}
